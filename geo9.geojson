@@ -1,0 +1,671 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+    "station_locator_url": "https://afdc.energy.gov/stations/",
+    "total_results": 8,
+    "station_counts": {
+    "total": 15,
+    "fuels": {
+    "BD": {
+    "total": 0
+    },
+    "E85": {
+    "total": 0
+    },
+    "ELEC": {
+    "total": 15,
+    "stations": {
+    "total": 8
+    }
+    },
+    "HY": {
+    "total": 0
+    },
+    "LNG": {
+    "total": 0
+    },
+    "CNG": {
+    "total": 0
+    },
+    "LPG": {
+    "total": 0
+    }
+    }
+    }
+    },
+    "features": [
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.298719,
+    47.42327
+    ]
+    },
+    "properties": {
+    "access_code": "public",
+    "access_days_time": "24 hours daily",
+    "access_detail_code": null,
+    "cards_accepted": null,
+    "date_last_confirmed": "2022-01-12",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Public",
+    "id": 78571,
+    "open_date": "2016-09-22",
+    "owner_type_code": null,
+    "status_code": "E",
+    "station_name": "SOUND TRANSIT ANGLE LAKE #4",
+    "station_phone": "888-758-4389",
+    "updated_at": "2022-01-12T00:31:25Z",
+    "facility_type": null,
+    "geocode_status": "GPS",
+    "city": "SeaTac",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "2702 S 200th St",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "J1772"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": null,
+    "ev_level2_evse_num": 1,
+    "ev_network": "ChargePoint Network",
+    "ev_network_web": "http://www.chargepoint.com/",
+    "ev_other_evse": null,
+    "ev_pricing": null,
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Public",
+    "ev_pricing_fr": null,
+    "ev_network_ids": {
+    "station": [
+    "USCPIL124683"
+    ],
+    "posts": [
+    "162503"
+    ]
+    }
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.301609,
+    47.389484
+    ]
+    },
+    "properties": {
+    "access_code": "public",
+    "access_days_time": "MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours",
+    "access_detail_code": null,
+    "cards_accepted": null,
+    "date_last_confirmed": "2022-01-11",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Public",
+    "id": 96972,
+    "open_date": "2018-05-10",
+    "owner_type_code": null,
+    "status_code": "E",
+    "station_name": "Highline Community College",
+    "station_phone": "888-998-2546",
+    "updated_at": "2022-01-11T22:55:11Z",
+    "facility_type": null,
+    "geocode_status": "GPS",
+    "city": "Des Moines",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "2400 S 240th St",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "J1772"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": null,
+    "ev_level2_evse_num": 2,
+    "ev_network": "Blink Network",
+    "ev_network_web": "http://www.blinkcharging.com/",
+    "ev_other_evse": null,
+    "ev_pricing": "Level 2: $0.49 per kWh",
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Public",
+    "ev_pricing_fr": null,
+    "ev_network_ids": {
+    "station": [
+    "96462"
+    ],
+    "posts": [
+    "477936",
+    "478136"
+    ]
+    }
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.296989,
+    47.400631
+    ]
+    },
+    "properties": {
+    "access_code": "public",
+    "access_days_time": "24 hours daily; for customer use only; see front desk for access",
+    "access_detail_code": null,
+    "cards_accepted": null,
+    "date_last_confirmed": "2020-11-03",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Public",
+    "id": 116088,
+    "open_date": "2016-01-01",
+    "owner_type_code": "P",
+    "status_code": "E",
+    "station_name": "The Four Points by Sheraton Seattle Airport South - Tesla Destination",
+    "station_phone": "253-642-0100  877-798-3752",
+    "updated_at": "2021-03-11T23:22:17Z",
+    "facility_type": "HOTEL",
+    "geocode_status": "200-9",
+    "city": "Des Moines",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "22406 Pacific Highway S",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "J1772",
+    "TESLA"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": null,
+    "ev_level2_evse_num": 6,
+    "ev_network": "Tesla Destination",
+    "ev_network_web": "https://www.tesla.com/destination-charging",
+    "ev_other_evse": null,
+    "ev_pricing": "Free",
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Public",
+    "ev_pricing_fr": null,
+    "ev_network_ids": {
+    "station": [
+    "12103"
+    ]
+    }
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.2953153,
+    47.3951507
+    ]
+    },
+    "properties": {
+    "access_code": "public",
+    "access_days_time": "MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am",
+    "access_detail_code": null,
+    "cards_accepted": null,
+    "date_last_confirmed": "2022-01-12",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Public",
+    "id": 147785,
+    "open_date": "2015-08-17",
+    "owner_type_code": null,
+    "status_code": "E",
+    "station_name": "Walgreens - Des Moines, WA #9423",
+    "station_phone": "800-663-5633",
+    "updated_at": "2022-01-12T00:21:29Z",
+    "facility_type": null,
+    "geocode_status": "GPS",
+    "city": "Des Moines",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "23003 Pacific Highway South",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "J1772"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": null,
+    "ev_level2_evse_num": 1,
+    "ev_network": "SemaCharge Network",
+    "ev_network_web": "https://semaconnect.com/",
+    "ev_other_evse": null,
+    "ev_pricing": "$2.00/Hr Parking Fee",
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Public",
+    "ev_pricing_fr": null,
+    "ev_network_ids": {
+    "station": [
+    "1131"
+    ],
+    "posts": [
+    "538"
+    ]
+    }
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.298891,
+    47.410098
+    ]
+    },
+    "properties": {
+    "access_code": "public",
+    "access_days_time": "6am-12am daily",
+    "access_detail_code": null,
+    "cards_accepted": null,
+    "date_last_confirmed": "2021-04-08",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Public",
+    "id": 166717,
+    "open_date": "2020-08-31",
+    "owner_type_code": "P",
+    "status_code": "E",
+    "station_name": "Safeway 21401 Pacific Hwy S",
+    "station_phone": "888-264-2208",
+    "updated_at": "2021-04-08T20:32:57Z",
+    "facility_type": "GROCERY",
+    "geocode_status": "GPS",
+    "city": "Des Moines",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "21401 Pacific Hwy S",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "J1772"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": null,
+    "ev_level2_evse_num": 2,
+    "ev_network": "Volta",
+    "ev_network_web": "https://voltacharging.com/",
+    "ev_other_evse": null,
+    "ev_pricing": null,
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Public",
+    "ev_pricing_fr": null
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.298719,
+    47.423292
+    ]
+    },
+    "properties": {
+    "access_code": "public",
+    "access_days_time": "24 hours daily",
+    "access_detail_code": null,
+    "cards_accepted": null,
+    "date_last_confirmed": "2022-01-12",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Public",
+    "id": 172633,
+    "open_date": "2021-01-27",
+    "owner_type_code": null,
+    "status_code": "E",
+    "station_name": "SOUND TRANSIT ANGLE LAKE #3",
+    "station_phone": "888-758-4389",
+    "updated_at": "2022-01-12T00:31:25Z",
+    "facility_type": null,
+    "geocode_status": "GPS",
+    "city": "SeaTac",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "2702 S 200th St",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "J1772"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": null,
+    "ev_level2_evse_num": 1,
+    "ev_network": "ChargePoint Network",
+    "ev_network_web": "http://www.chargepoint.com/",
+    "ev_other_evse": null,
+    "ev_pricing": null,
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Public",
+    "ev_pricing_fr": null,
+    "ev_network_ids": {
+    "station": [
+    "USCPIL124681"
+    ],
+    "posts": [
+    "162501"
+    ]
+    }
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.305105,
+    47.409788
+    ]
+    },
+    "properties": {
+    "access_code": "private",
+    "access_days_time": null,
+    "access_detail_code": "GOVERNMENT",
+    "cards_accepted": null,
+    "date_last_confirmed": "2021-02-22",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Private - Government only",
+    "id": 184352,
+    "open_date": "2021-01-15",
+    "owner_type_code": "FG",
+    "status_code": "E",
+    "station_name": "FAA - Regional Office Building (ANM)",
+    "station_phone": null,
+    "updated_at": "2021-08-04T00:01:52Z",
+    "facility_type": "FED_GOV",
+    "geocode_status": "GPS",
+    "city": "Des Moines",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "2200 S 216th St",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "J1772"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": null,
+    "ev_level2_evse_num": 1,
+    "ev_network": "Non-Networked",
+    "ev_network_web": null,
+    "ev_other_evse": null,
+    "ev_pricing": "Free",
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Privé - Réservé au gouvernement",
+    "ev_pricing_fr": null,
+    "federal_agency": {
+    "id": 17,
+    "code": "DOT",
+    "name": "Department of Transportation"
+    }
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.301442,
+    47.422071
+    ]
+    },
+    "properties": {
+    "access_code": "private",
+    "access_days_time": null,
+    "access_detail_code": "GOVERNMENT",
+    "cards_accepted": null,
+    "date_last_confirmed": "2021-02-22",
+    "expected_date": null,
+    "fuel_type_code": "ELEC",
+    "groups_with_access_code": "Private - Government only",
+    "id": 184655,
+    "open_date": "2021-01-15",
+    "owner_type_code": "FG",
+    "status_code": "E",
+    "station_name": "FDC Seatac",
+    "station_phone": null,
+    "updated_at": "2021-08-04T00:01:52Z",
+    "facility_type": "FED_GOV",
+    "geocode_status": "GPS",
+    "city": "Seatac",
+    "intersection_directions": null,
+    "plus4": null,
+    "state": "WA",
+    "street_address": "2425 S 200th St",
+    "zip": "98198",
+    "country": "US",
+    "bd_blends": null,
+    "cng_dispenser_num": null,
+    "cng_fill_type_code": null,
+    "cng_psi": null,
+    "cng_renewable_source": null,
+    "cng_total_compression": null,
+    "cng_total_storage": null,
+    "cng_vehicle_class": null,
+    "e85_blender_pump": null,
+    "e85_other_ethanol_blends": null,
+    "ev_connector_types": [
+    "NEMA515"
+    ],
+    "ev_dc_fast_num": null,
+    "ev_level1_evse_num": 1,
+    "ev_level2_evse_num": null,
+    "ev_network": "Non-Networked",
+    "ev_network_web": null,
+    "ev_other_evse": null,
+    "ev_pricing": "Free",
+    "ev_renewable_source": null,
+    "hy_is_retail": null,
+    "hy_pressures": null,
+    "hy_standards": null,
+    "hy_status_link": null,
+    "lng_renewable_source": null,
+    "lng_vehicle_class": null,
+    "lpg_primary": null,
+    "lpg_nozzle_types": null,
+    "ng_fill_type_code": null,
+    "ng_psi": null,
+    "ng_vehicle_class": null,
+    "access_days_time_fr": null,
+    "intersection_directions_fr": null,
+    "bd_blends_fr": null,
+    "groups_with_access_code_fr": "Privé - Réservé au gouvernement",
+    "ev_pricing_fr": null,
+    "federal_agency": {
+    "id": 12,
+    "code": "DOJ",
+    "name": "Department of Justice"
+    }
+    }
+    }
+    ]
+    }
